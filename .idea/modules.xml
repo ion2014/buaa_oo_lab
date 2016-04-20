@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TaxiSimulator/Taxi.iml" filepath="$PROJECT_DIR$/TaxiSimulator/Taxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaxiSimulator/TaxiSimulator.iml" filepath="$PROJECT_DIR$/TaxiSimulator/TaxiSimulator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/buaa_oo_lab.iml" filepath="$PROJECT_DIR$/.idea/buaa_oo_lab.iml" />
     </modules>
   </component>
